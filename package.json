@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-bot",
+  "version": "1.0.0",
+  "description": "A bot built using the Microsoft bot framework and that will chat with visitors to Arnold Lam's portfolio site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnoldlam/portfolio-bot.git"
+  },
+  "author": "Arnold Lam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnoldlam/portfolio-bot/issues"
+  },
+  "homepage": "https://github.com/arnoldlam/portfolio-bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.2.3",
+    "restify": "^4.1.1"
+  }
+}
